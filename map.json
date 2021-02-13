@@ -43,7 +43,7 @@
                          "value":"https:\/\/gentle-nerds.de"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":46,
                  "x":0,
                  "y":0
@@ -61,7 +61,7 @@
                          "value":"https:\/\/www.youtube.com\/embed\/2Vv-BfVoq4g"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":46,
                  "x":0,
                  "y":0
@@ -79,7 +79,7 @@
                          "value":"https:\/\/meet.edvgarbe.de\/k1"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":46,
                  "x":0,
                  "y":0
@@ -97,7 +97,7 @@
                          "value":"https:\/\/meet.edvgarbe.de\/b1"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":46,
                  "x":0,
                  "y":0
@@ -115,7 +115,7 @@
                          "value":"https:\/\/meet.edvgarbe.de\/b2"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":46,
                  "x":0,
                  "y":0
@@ -133,7 +133,7 @@
                          "value":"https:\/\/meet.edvgarbe.de\/Z2"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":46,
                  "x":0,
                  "y":0
@@ -151,7 +151,7 @@
                          "value":"https:\/\/www.youtube.com\/embed\/izGwDsrQ1eQ"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":46,
                  "x":0,
                  "y":0
@@ -159,7 +159,7 @@
          "name":"Links",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
