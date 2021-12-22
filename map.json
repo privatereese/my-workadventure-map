@@ -361,7 +361,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=kv-YXKRUheQ"
+                 "value":"https:\/\/www.youtube.com\/embed\/kv-YXKRUheQ"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=Qow8pIvExH4"
+                 "value":"https:\/\/www.youtube.com\/embed\/Qow8pIvExH4"
                 }],
          "type":"tilelayer",
          "visible":true,
